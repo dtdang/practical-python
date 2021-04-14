@@ -83,4 +83,4 @@ def make_report(stocks_list, stocks_price):
 
 report = make_report('Data/portfolio.csv', 'Data/prices.csv')
 
-#Section 2.4
+#Section 2.5
